@@ -35,6 +35,8 @@ Ook hiervoor wordt er naar onderstaande figuur verwezen. De beste hoogte om het 
 
 ![image](https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/98b7f8ab-325a-456e-bf75-417ddaa0cffc)
 
+Vervolgens kunnen er designrequirements opgesteld worden. Het swipepaneel tussen een afstand van 39,4 en 50,8 cm van de schouder van de bestuurder zitten en tussen een afstand van 25 cm boven of 15 cm onder de elbooghoogte. 
+
 
 
 
