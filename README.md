@@ -23,6 +23,15 @@ Belangrijke aspecten waar op gefocussed zal moeten worden zijn:
 
 De designmethode die zal worden gebuikt is: Design for adjustable (aangezien de zeten van de wagen per persoon kan ingesteld worden). De ergonomie zal in twee delen opgespitst worden. Eenerzijds zal de bediencilinder bekeken worden en anderzijds zal het swipepaneel bekeken worden. 
 
+**Swipepaneel**
+
+**Ergonomische aspecten**
+
+Het eerste aspect dat bekeken wordt voor het swipepaneel is hoe ver het gemonteerd moet zijn t.o.v. de bestuurder. Zoals in onderstaande figuur te zien is, zou het swipepaneel best in een cirkel met een straal tussen de 39,4 en 50,8 cm komen te staan waarbij het middelpunt de rechterscouder van de bestuurder is en het eindpunte de hand van de bestuurder. (Zhanfeng, 2018)[^1] 
+
+![image](https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10)
+
+
 **Resultaten**
 
 **Conclusies & implicaties**
@@ -30,6 +39,9 @@ De designmethode die zal worden gebuikt is: Design for adjustable (aangezien de 
 ## Kritische reflectie
 
 ## Bronnen
+
+[^2]: Zhanfeng, Z.Z. (2018). Improvement and Innovation of Appearance Design of
+Coffee Machine van [URL](https://pdfs.semanticscholar.org/1b99/b3f87a1eef62f601bcd0519c6107bc6e018c.pdf)
 
 ## Bijlagen
 
