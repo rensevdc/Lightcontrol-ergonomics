@@ -46,6 +46,12 @@ Ook hiervoor wordt er naar onderstaande figuur verwezen. De beste hoogte om het 
 
 ## Bronnen
 
+Blumstengel, B.S. (2019). Lunch & Learn Series: Office Ergonomics Done Right van [URL]([https://pdfs.semanticscholar.org/1b99/b3f87a1eef62f601bcd0519c6107bc6e018c.pdf](https://freshworks.io/office-ergonomics-done-right/))
+
+Zhanfeng, Z.Z. (2018). Improvement and Innovation of Appearance Design of
+Coffee Machine van [URL](https://pdfs.semanticscholar.org/1b99/b3f87a1eef62f601bcd0519c6107bc6e018c.pdf)
+
+
 [^1]: Zhanfeng, Z.Z. (2018). Improvement and Innovation of Appearance Design of
 Coffee Machine van [URL](https://pdfs.semanticscholar.org/1b99/b3f87a1eef62f601bcd0519c6107bc6e018c.pdf)
 
