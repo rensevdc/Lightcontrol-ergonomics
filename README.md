@@ -27,18 +27,31 @@ De designmethode die zal worden gebuikt is: Design for adjustable (aangezien de 
 
 **Ergonomische aspecten**
 
-Het eerste aspect dat bekeken wordt voor het swipepaneel is hoe ver het gemonteerd moet zijn t.o.v. de bestuurder. Zoals in onderstaande figuur te zien is, zou het swipepaneel best in een cirkel met een straal tussen de 39,4 en 50,8 cm komen te staan waarbij het middelpunt de rechterscouder van de bestuurder is en het eindpunte de hand van de bestuurder. (Zhanfeng, 2018)[^1] 
+Het eerste aspect dat bekeken wordt voor het swipepaneel is hoe ver het gemonteerd moet zijn t.o.v. de bestuurder. Zoals in onderstaande figuur te zien is, zou het swipepaneel best in een cirkel met een straal tussen de 394 en 508 mm komen te staan waarbij het middelpunt de rechterscouder van de bestuurder is en het eindpunte de hand van de bestuurder. (Zhanfeng, 2018)[^1] 
 Een volgend ascpect is te bepalen hoe diep het paneel moet wegzitten in het dashboard. 
 ![image](https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10)
 
-Ook hiervoor wordt er naar onderstaande figuur verwezen. De beste hoogte om het display te bedienen is op elbooghoogte. Dit komt meestal overeen met een hoogte tussen de 15 cm onder elbooghoogte en 25 cm boven elbooghoogte. De diepte van het dashboard (y-as) wordt kleiner naarmate het display hoger of lager komt te staan. Zo is op elbooghoogte deze nog maximaal 50cm ten opzichte van de borst. Indien de hand op 25cm boven de elbooghoogte geposistioneerd is wordt de diepte maximaal 60 cm. En ten laatste wanneer de hand zich op 15cm onder de elbooghoogte bevind is de maximale diepte 40 cm van de borst af. (Blumstengel, 2019)[^2]
+Ook hiervoor wordt er naar onderstaande figuur verwezen. De beste hoogte om het display te bedienen is op elbooghoogte. Dit komt meestal overeen met een hoogte tussen de 150 mm onder elbooghoogte en 250 mm boven elbooghoogte. De diepte van het dashboard (x-as) wordt kleiner naarmate het display hoger of lager komt te staan. Zo is op elbooghoogte deze nog maximaal 50cm ten opzichte van de borst. Indien de hand op 250 mm boven de elbooghoogte geposistioneerd is wordt de diepte maximaal 600 mm. En ten laatste wanneer de hand zich op 150mm onder de elbooghoogte bevind is de maximale diepte 400 mm van de borst af. (Blumstengel, 2019)[^2]
 
 ![image](https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/98b7f8ab-325a-456e-bf75-417ddaa0cffc)
 
-Vervolgens kunnen er designrequirements opgesteld worden. Het swipepaneel tussen een afstand van 39,4 en 50,8 cm van de schouder van de bestuurder zitten en tussen een afstand van 25 cm boven of 15 cm onder de elbooghoogte. 
+Vervolgens kunnen er designrequirements opgesteld worden. Het swipepaneel tussen een afstand van 394 en 508 mm van de schouder van de bestuurder zitten en tussen een afstand van 250 mm boven of 150 mm onder de elbooghoogte. 
 
+**Standaardderivaties en percentielen**
 
+Via de DINBELG worden enkele maten bekeken voor de bevolking. 
 
+Rijkdiepte: De gemiddelde rijkdiepte is 767 mm, voor 95,5% van de bevolking is de rijkdiepte in een zittende houding tussen de 667 en 867 mm. Hieruit blijkt dat 95,5% van de bevolking zeker aan de maximale opgestelde diepte van het swipepaneel geraakt. 
+
+Schouderbreedte: De gemiddelde schouderbreedte is 438 mm, voor 95,5% van de bevolking geldt dat in een zittende houding de schouderbreedte tussen 374 en 502 mm ligt. Het swipepaneel ligt dus best op een minimale afstand van 251 mm van het midden van het stuur (502/2 mm) en een maximale afstand van 695 mm (374/2 + 508 mm) van het midden van het stuur af. 
+
+Ellebooghoogte: De gemiddelde ellebooghoogte is 244 mm, voor 95,5% van de bevolking in een zittende houding ligt de ellebooghouding tussen 196 en 292 mm. Het swipepaneel moet dus op een hoogte van minimaal 46 mm (196 -150 mm) en maximaal 542 mm (292 +250 mm) staan t.o.v. het zitvlak. 
+
+Voor het swipepaneel geldt dus dat dit het best tussen een afstand van 251 mm en 695 mm van het midden van het stuur zit. Het zit op een diepte tussen twee cirkels met een straal van 394 mm en 508 mm bekeken vanaf de schouder (middelpunt). Op een hoogte tussen 46 mm en 542mm ten opzichte van het zitvlak bevestigd zit. 
+
+**Simulatie**
+
+Vervolgens worden deze waarden in een Siemens NX simulatie geanalyseerd. 
 
 **Resultaten**
 
